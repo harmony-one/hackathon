@@ -1,2 +1,2 @@
 # hackathon
-repo for harmony hackathons
+This repository contains information for each hackathon that Harmony hosts or sponsors.
