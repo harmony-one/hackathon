@@ -1,1 +1,17 @@
-this folder contains reference projects with boilerplate code to easily get started.
+## Installation
+
+```
+npm install
+```
+
+### Usage
+
+```
+npx truffle test
+```
+
+### Deployment
+
+```
+npx truffle migrate --network harmony
+```
