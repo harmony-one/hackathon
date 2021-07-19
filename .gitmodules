@@ -1,0 +1,3 @@
+[submodule "projects/crosschain-api"]
+	path = projects/crosschain-api
+	url = git@github.com:harmony-one/crosschain-api.git
