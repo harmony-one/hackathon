@@ -1,3 +1,6 @@
 [submodule "projects/crosschain-api"]
 	path = projects/crosschain-api
 	url = git@github.com:harmony-one/crosschain-api.git
+[submodule "projects/dbank"]
+	path = projects/dbank
+	url = git@github.com:harmony-one/dbank.git
