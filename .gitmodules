@@ -4,3 +4,6 @@
 [submodule "projects/dbank"]
 	path = projects/dbank
 	url = git@github.com:harmony-one/dbank.git
+[submodule "projects/defi-tutorial"]
+	path = projects/defi-tutorial
+	url = git@github.com:harmony-one/defi_tutorial.git
