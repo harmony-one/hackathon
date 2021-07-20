@@ -4,7 +4,7 @@ Read more about 1Wallet on the [Wiki](https://docs.harmony.one/home/network/wall
 
 1Wallet is a digital wallet for crypto assets, investment and identity. Consumers can buy crypto assets via credit cards, then trade between multiple platforms. They can earn fixed-rate interests or actively invest for higher returns. Their profiles can hold digital arts or custom domain names.
 
-This repo included in this directory contains 3 elements:
+This repo included in this directory contains 4 elements:
 
 1. Smart Contract
 2. Relayer
