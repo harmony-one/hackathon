@@ -7,3 +7,6 @@
 [submodule "projects/defi-tutorial"]
 	path = projects/defi-tutorial
 	url = git@github.com:harmony-one/defi_tutorial.git
+[submodule "projects/decentragram"]
+	path = projects/decentragram
+	url = git@github.com:harmony-one/decentragram.git
