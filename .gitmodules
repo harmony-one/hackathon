@@ -16,3 +16,6 @@
 [submodule "projects/lottery"]
 	path = projects/lottery
 	url = https://github.com/harmony-one/harmony-social-game
+[submodule "projects/onchain-wallet/1wallet"]
+	path = projects/onchain-wallet/1wallet
+	url = https://github.com/polymorpher/one-wallet
