@@ -1,17 +1,27 @@
-## Installation
+# Sample Projects
 
-```
-npm install
-```
+## Projects included:
 
-### Usage
+### Crosschain API
+Harmony's CrossChain API.
 
-```
-npx truffle test
-```
+### Crowdfunding
+Crowdfunding DApp example using the Harmony blockchain.
 
-### Deployment
+### DBank
+A simple decentralized banking tutorial which is configured to work on harmony blockchain.
 
-```
-npx truffle migrate --network harmony
-```
+### Decentragram
+A tutorial for creating a decentralized photo sharing DApp on Harmony.
+
+### DeFi Tutorial
+A simple DeFi tutorial on Harmony.
+
+### Lending/Borrowing
+A lending and borrowing DApp on Harmony.
+
+### Lottery
+A DApp that uses the Harmony Wallet and VRF randomizer to create a fun lottery system.
+
+### On-chain Wallet
+An on-chain wallet for holding crypto assets with social recovery.
