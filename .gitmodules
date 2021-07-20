@@ -19,3 +19,6 @@
 [submodule "projects/onchain-wallet/1wallet"]
 	path = projects/onchain-wallet/1wallet
 	url = https://github.com/polymorpher/one-wallet
+[submodule "projects/meme_of_the_day"]
+	path = projects/meme_of_the_day
+	url = git@github.com:harmony-one/meme_of_the_day.git
