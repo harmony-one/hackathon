@@ -1,7 +1,5 @@
 # Sample Projects
 
-## Projects included:
-
 ### Crosschain API
 Harmony's CrossChain API.
 
