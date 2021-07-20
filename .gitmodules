@@ -10,3 +10,9 @@
 [submodule "projects/decentragram"]
 	path = projects/decentragram
 	url = git@github.com:harmony-one/decentragram.git
+[submodule "projects/crowdfunding"]
+	path = projects/crowdfunding
+	url = https://github.com/harmony-one/dapp-demo-crowdfunding
+[submodule "projects/lottery"]
+	path = projects/lottery
+	url = https://github.com/harmony-one/harmony-social-game
