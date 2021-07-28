@@ -22,3 +22,6 @@
 [submodule "projects/meme_of_the_day"]
 	path = projects/meme_of_the_day
 	url = git@github.com:harmony-one/meme_of_the_day.git
+[submodule "projects/academy-cryptokitties"]
+	path = projects/academy-cryptokitties
+	url = git@github.com:harmony-one/academy-cryptokitties.git
