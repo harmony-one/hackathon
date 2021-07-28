@@ -25,3 +25,6 @@
 [submodule "projects/academy-cryptokitties"]
 	path = projects/academy-cryptokitties
 	url = git@github.com:harmony-one/academy-cryptokitties.git
+[submodule "projects/marketplace"]
+	path = projects/marketplace
+	url = https://github.com/harmony-one/marketplace
