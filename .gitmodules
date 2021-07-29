@@ -28,3 +28,6 @@
 [submodule "projects/marketplace"]
 	path = projects/marketplace
 	url = https://github.com/harmony-one/marketplace
+[submodule "projects/onchain-wallet/smart_vault"]
+	path = projects/onchain-wallet/smart_vault
+	url = https://github.com/harmony-one/harmony-totp
