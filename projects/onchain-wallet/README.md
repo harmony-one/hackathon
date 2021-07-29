@@ -7,9 +7,10 @@ Read more about 1Wallet on the [Wiki](https://docs.harmony.one/home/network/wall
 There are 2 different security approaches:
 
 1Wallet (TODO link to forum)
+
 Smart Vault  (TODO link to forum)
 
-The repos included in this directory contains 4 elements:
+The repos included in this directory contain 4 elements:
 
 1. Smart Contract
 2. Relayer
