@@ -8,7 +8,7 @@ There are 2 different security approaches:
 
 1Wallet (TODO link to forum)
 
-Smart Vault  (TODO link to forum)
+[https://talk.harmony.one/t/smartvault-smart-contract-wallet-with-worry-free-recovery-and-dapps/1933](Smart Vault)
 
 The repos included in this directory contain 4 elements:
 
