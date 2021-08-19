@@ -1,10 +1,31 @@
-# hackathon
+# Hackathon
 This repository contains information for each hackathon that Harmony hosts or sponsors.
+
+## Get Involved
+<details>
+  <summary>Hackathon information</summary>
+
+* [Gitcoin - Harmony - Bridging TradFi to DeFi](https://gitcoin.co/hackathon/harmony-defi/onboard)
+* [hack.harmony.one](https://hack.harmony.one/)
+* [Presentation - Harmony - $1m Hackathon on Cross-Chain](https://docs.google.com/presentation/d/1KrRt-Dx8yoMI1jNCb1yX0rnP1QnnJt-s_1EZO8LNeQU/edit#slide=id.ge579c98f09_0_32)
+</details>
+<details>
+  <summary>Start Building</summary>
+
+* [Discord - Harmony - hack.harmony.one](https://discord.gg/kTQNDJFR)
+* [Hack the Horizon: Project Wishlist](https://medium.com/harmony-one/hack-the-horizon-project-wishlist-ed534e4f93a4)
+
+* [Introduce yourself](https://harmony.one/hackathon-intros)
+* [Look for team mates](https://harmony.one/hackathon-participants)
+* [Register your team](https://harmony.one/team-submission)
+</details>
+
+<br />
 
 # Project Ideas by Track
 
-| Theme | Track | Description | Examples and References | Sample Reference Projects |
-|-|-|-|-|-|
+| Theme | Track | Description | Examples and References | Sample Reference Projects | Project Ideas |
+|-|-|-|-|-|-|
 | Cross Chain | [Liquidity](https://blog.harmony.one/harmony-roadmap-cross-chain-cross-exchange-pools/) | Aggregation |- [On-Chain Market Making](https://medium.com/dragonfly-research/unbundling-uniswap-the-future-of-on-chain-market-making-1c7d6948d570) |- [crosschain-api](https://github.com/harmony-one/crosschain-api/) |
 | Cross Chain | [Liquidity](https://blog.harmony.one/harmony-roadmap-cross-chain-cross-exchange-pools/)  | Arbitrage |- [Hummingbot Cross Exchange Market Making](https://hummingbot.io/blog/2020-09-what-is-cross-exchange-market-making) | |
 | Cross Chain | [Liquidity](https://blog.harmony.one/harmony-roadmap-cross-chain-cross-exchange-pools/)  | Fixed Income |- [Proof of Stake Yield Derivatives](https://github.com/harmony-one/one-wallet) <br >- [sushi's kashi: lending](https://blog.harmony.one/sushi-and-harmony-announce-full-stack-partnership-with-4m-in-incentives/) | |
