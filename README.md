@@ -18,6 +18,18 @@ This repository contains information for each hackathon that Harmony hosts or sp
 * [Look for team mates](https://harmony.one/hackathon-participants)
 * [Register your team](https://harmony.one/team-submission)
 
+### General Guidlines
+
+Here are general guidelines on participating and being successful in a hackathon. 
+
+1) Intro Yourselves - dev (skillsets) and product (ideas), at #introductions 
+2) Talk About the Idea! - Post and discuss your ideas/teams on forum at https://talk.harmony.one/ 
+3) Form your Team - Match with ideas together at #team-formation , register your group
+4) BUIDL time! - plan, build, and test.  Form your own Telegram group to communicate often
+5) Check-in weekly - check-in Thursday 9AM US Pacific Time (4PM GMT/UTC) or ask at #hackathon-questions 
+6) Be presentable - present your ideas on a deck, providing context, dive deep and plan for a demo
+7) Submit your Work - send in your work before the Sep 30th deadline!
+
 # Track and Challenge Overview
 
 Below is an overview of the 12 Tracks and 4 challenges with links to the discussions on [talk.harmony.one/hackathon](https://talk.harmony.one/c/developers/hackathon/39)
