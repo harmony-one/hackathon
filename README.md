@@ -2,15 +2,14 @@
 This repository contains information for each hackathon that Harmony hosts or sponsors.
 
 ## Get Involved
-<details>
-  <summary>Hackathon information</summary>
+
+### Hackathon information
 
 * [Gitcoin - Harmony - Bridging TradFi to DeFi](https://gitcoin.co/hackathon/harmony-defi/onboard)
 * [hack.harmony.one](https://hack.harmony.one/)
 * [Presentation - Harmony - $1m Hackathon on Cross-Chain](https://docs.google.com/presentation/d/1KrRt-Dx8yoMI1jNCb1yX0rnP1QnnJt-s_1EZO8LNeQU/edit#slide=id.ge579c98f09_0_32)
-</details>
-<details>
-  <summary>Start Building</summary>
+
+### Start Building
 
 * [Discord - Harmony - hack.harmony.one](https://discord.gg/kTQNDJFR)
 * [Hack the Horizon: Project Wishlist](https://medium.com/harmony-one/hack-the-horizon-project-wishlist-ed534e4f93a4)
@@ -18,9 +17,33 @@ This repository contains information for each hackathon that Harmony hosts or sp
 * [Introduce yourself](https://harmony.one/hackathon-intros)
 * [Look for team mates](https://harmony.one/hackathon-participants)
 * [Register your team](https://harmony.one/team-submission)
-</details>
 
-<br />
+# Track and Challenge Overview
+
+Below is an overview of the 12 Tracks and 4 challenges with links to the discussions on [talk.harmony.one/hackathon](https://talk.harmony.one/c/developers/hackathon/39)
+
+| # | Track |
+|--:|-|
+| 1 | [Cross Chain - "Liquidity"](https://talk.harmony.one/t/track-1-cross-chain-liquidity/1969)
+| 2 | [Cross Chain - "Middleware"](https://talk.harmony.one/t/track-2-cross-chain-middlewares/1970/2)
+| 3 | [Cross-Chain - “DeFi/NFT/DAO”](https://talk.harmony.one/t/track-3-cross-chain-defi-nft-dao/1971)
+| 4 | [Cross-Chain - “Platform”](https://talk.harmony.one/t/track-4-cross-chain-platform/1972)
+| 5 | [On-Chain Wallet - “Frontends”](https://talk.harmony.one/t/track-5-on-chain-wallet-frontends/1973)
+| 6 | [On-Chain Wallet - “Web3”](https://talk.harmony.one/t/track-6-on-chain-wallet-web3/1974)
+| 7 | [On-Chain Wallet - “Web2”](https://talk.harmony.one/t/track-7-on-chain-wallet-web2/1975)
+| 8 | [On-Chain Wallet - “Security”](https://talk.harmony.one/t/track-8-on-chain-wallet-security/1976)
+| 9 | [Cross-Border - “Gateways”](https://talk.harmony.one/t/track-9-cross-border-gateways/1977)
+| 10 | [Cross-Border - “Corporate”](https://talk.harmony.one/t/track-10-cross-border-corporate/1978)
+| 11 | [Cross-Border - “Regional”](https://talk.harmony.one/t/track-11-cross-border-regional/1979)
+| 12 | [Cross-Border - “Impacts”](https://talk.harmony.one/t/track-12-cross-border-impacts/1980)
+
+| # | Challenge |
+|--:|-|
+| A | [Maddock Capital](https://talk.harmony.one/t/challenge-maddock-capital/2004)
+| B | [Chainlink](https://talk.harmony.one/t/challenge-chainlink/2005)
+| C | [Hashkey](https://talk.harmony.one/t/challenge-hashkey/2006)
+| D | [Sushi](https://talk.harmony.one/t/challenge-sushi/2009)
+
 
 # Project Ideas by Track
 
