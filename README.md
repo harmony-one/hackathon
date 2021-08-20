@@ -1,19 +1,18 @@
 # Hackathon
-This repository contains information for each hackathon that Harmony hosts or sponsors.
+This repository contains information for each hackathon that Harmony hosts or sponsors, make sure you also see the [wiki](https://github.com/harmony-one/hackathon/wiki/Examples-for-%241-Million-Hackathon-%22Bridging-TradFi-to-DeFi%22) for more examples.
 
 ## Get Involved
 
 ### Hackathon information
 
 * [Gitcoin - Harmony - Bridging TradFi to DeFi](https://gitcoin.co/hackathon/harmony-defi/onboard)
+* [Prize Overview](https://gitcoin.co/hackathon/harmony-defi/prizes/?org=harmony-one)
 * [hack.harmony.one](https://hack.harmony.one/)
 * [Presentation - Harmony - $1m Hackathon on Cross-Chain](https://docs.google.com/presentation/d/1KrRt-Dx8yoMI1jNCb1yX0rnP1QnnJt-s_1EZO8LNeQU/edit#slide=id.ge579c98f09_0_32)
 
 ### Start Building
 
 * [Discord - Harmony - hack.harmony.one](https://discord.gg/kTQNDJFR)
-* [Hack the Horizon: Project Wishlist](https://medium.com/harmony-one/hack-the-horizon-project-wishlist-ed534e4f93a4)
-
 * [Introduce yourself](https://harmony.one/hackathon-intros)
 * [Look for team mates](https://harmony.one/hackathon-participants)
 * [Register your team](https://harmony.one/team-submission)
