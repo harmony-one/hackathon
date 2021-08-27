@@ -2,6 +2,8 @@
 
 Shows a price feed of specific assets on dexes. 
 
+[Video walkthrough](https://www.youtube.com/watch?v=_OsU7CpWVnk)
+
 ## Preconditions
 
 + nodejs
