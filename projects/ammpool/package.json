@@ -12,6 +12,6 @@
   "author": "Rachit Srivastava",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.2.0"
+    "@openzeppelin/contracts": "^4.3.3"
   }
 }
